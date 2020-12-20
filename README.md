@@ -102,8 +102,6 @@ Script ini di modifikasi sama saya sendiri KilL4Life.
 
 Ket: Aktiv 24 jam
 
-## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi 👾KilL4Life👾`](https://saweria.co/aris187id)
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
