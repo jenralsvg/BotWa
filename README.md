@@ -97,7 +97,6 @@ Script ini di modifikasi sama saya sendiri KilL4Life.
 |       ✅       | Pokemon                          |
 |       ✅       | Info                             |
 |       ✅       | Donate                           |
-|       ✅       | 18+.                             |
 |                   MORE  Fitur                     |
 
 Ket: Aktiv 24 jam
