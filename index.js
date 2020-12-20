@@ -29,7 +29,7 @@ const config = {
     nomer: 'wa.me/6285757196481',
     aktif: '24 JAM',
     youtube: 'https://youtube.com/channel/UCF-nPvtUosWxilJksQXJJ5g',
-    whatsapp: 'https://chat.whatsapp.com/DSSHmG2KjKJLoFp9B9mkVs',
+    whatsapp: 'https://chat.whatsapp.com/JttY5Uu6WcaGh8ntMtqhqP',
     tanggal: `TANGGAL: ${moment().format('DD')} ${bulan} ${moment().format('YYYY')}`,
     waktu: time
 }
