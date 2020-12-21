@@ -265,7 +265,7 @@ client.on('message-new', async (m) => {
            jsholat(value)
                .then(data => {
                    const { Imsyak, Subuh, Dzuhur, Ashar, Maghrib, Isya, Dhuha } = data
-                   let hasil = `Jadwal sholat di *${value}* hari ini adalah\n\n🕔Imsyak : ${Imsyak}\n🕔Subuh : ${Subuh} WIB\n🕛Dzuhur : ${Dzuhur}WIB\n🕝Ashar : ${Ashar} WIB\n⚡🕕Maghrib : ${Maghrib}\n🕖Isya : ${Isya} WIB\n⚡🕜Tengah malam : ${Dhuha} WIB`
+                   let hasil = `Jadwal sholat di *${value}* hari ini adalah\n\n🕔Imsyak : ${Imsyak}\n🕔Subuh : ${Subuh} WIB\n🕛Dzuhur : ${Dzuhur}WIB\n🕝Ashar : ${Ashar} WIB\n🕕Maghrib : ${Maghrib}\n🕖Isya : ${Isya} WIB\n🕜Tengah malam : ${Dhuha} WIB`
                    client.sendMessage(id, hasil,MessageType.text)
                })
                .catch(err => {
@@ -360,7 +360,7 @@ client.on('message-new', async (m) => {
                case 'cewek':
                    cewePict(value)
                        .then(buffer => {
-                           client.sendMessage(id, '[❗] WAIT BOSQ🖤',MessageType.text)
+                           client.sendMessage(id, '[❗] WAIT BOS🎭',MessageType.text)
                            client.sendMessage(id, buffer ,MessageType.image)
                        })
                        .catch(err => {
@@ -370,7 +370,7 @@ client.on('message-new', async (m) => {
                case 'cowok':
                    cowoPict(value)
                        .then(buffer => {
-                           client.sendMessage(id, '[❗] WAIT BOSQ🖤',MessageType.text)
+                           client.sendMessage(id, '[❗] WAIT BOS🎭',MessageType.text)
                            client.sendMessage(id, buffer ,MessageType.image)
                        })
                        .catch(err => {
@@ -385,7 +385,7 @@ client.on('message-new', async (m) => {
        case 'animepict':
            animPict(value)
                .then(buffer => {
-                   client.sendMessage(id, '[❗] WAIT BOSQ🖤',MessageType.text)
+                   client.sendMessage(id, '[❗] WAIT BOS🎭',MessageType.text)
                    client.sendMessage(id, buffer,MessageType.image)
                })
                .catch(err => {
