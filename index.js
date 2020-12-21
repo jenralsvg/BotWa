@@ -469,29 +469,7 @@ client.on('message-new', async (m) => {
                .catch(err => {
                    console.log(err)
                })
-           break
-case 'puisi1':
-           puisi1(value)
-               .then(data => {
-                   const { result} = data
-                   let hasil = `_${result}_`
-                   client.sendMessage(id, hasil,MessageType.text)
-               })
-               .catch(err => {
-                   console.log(err)
-               })
-           break
-case 'puisi2':
-           puisi2(value)
-               .then(data => {
-                   const { result} = data
-                   let hasil = `_${result}_`
-                   client.sendMessage(id, hasil,MessageType.text)
-               })
-               .catch(err => {
-                   console.log(err)
-               })
-           break
+           break        
  case 'infogempa':
            infogempa(value)
                .then(data => {
