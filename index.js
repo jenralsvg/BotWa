@@ -34,7 +34,7 @@ const config = {
     waktu: time
 }
 
-const { Muhamadilham, tanggal, waktu, instagram, whatsapp, youtube, nomer, aktif, ontime } = config
+const { A187, tanggal, waktu, instagram, whatsapp, youtube, nomer, aktif, ontime } = config
 
 const
 {
