@@ -27,8 +27,8 @@ const config = {
     A187: '👾Muhamadilham👾',
     nomer: 'wa.me/6285722553839',
     aktif: '24 JAM',
-    youtube: 'https://youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg',
-    whatsapp: 'https://chat.whatsapp.com/DSSHmG2KjKJLoFp9B9mkVs',
+    youtube: 'https://youtube.com/channel/UCF-nPvtUosWxilJksQXJJ5g',
+    whatsapp: 'https://chat.whatsapp.com/JttY5Uu6WcaGh8ntMtqhqP',
     tanggal: `TANGGAL: ${moment().format('DD')} ${bulan} ${moment().format('YYYY')}`,
     waktu: time
 }
