@@ -24,8 +24,7 @@ const arrayBulan = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Jul
 const bulan = arrayBulan[moment().format('MM') - 1]
 
 const config = {
-    A187: '👾AR15BOT👾',
-    instagram: 'https://instagram.com/_sadboy.ig',
+    A187: '👾Muhamadilham👾',
     nomer: 'wa.me/6285722553839',
     aktif: '24 JAM',
     youtube: 'https://youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg',
@@ -180,7 +179,7 @@ client.on('message-new', async (m) => {
        case 'nulis':
            nulis(value)
                .then(data => {
-                   client.sendMessage(id, '[❗] WAIT BOSQ🖤',MessageType.text)
+                   client.sendMessage(id, '[❗] WAIT BOS',MessageType.text)
                    client.sendMessage(id, data ,MessageType.image)
                })
                .catch(err => {
@@ -208,7 +207,7 @@ client.on('message-new', async (m) => {
                .then(data => {
                    const { judul, size, hasil: link } = data
                    let hasil = `✅ Lagu Berhasil Di Download, silahkan klik link dan download hasilnya\nKlik link dibawah🗡️\n\nJudul: ${judul}\n\nUkuran audio: ${size}\n\nLink: ${link}`
-                   client.sendMessage(id, '[❗] WAIT BOSQ🖤',MessageType.text)
+                   client.sendMessage(id, '[❗] WAIT BOS',MessageType.text)
                    client.sendMessage(id, hasil,MessageType.text)
                })
                .catch(err => {
@@ -220,7 +219,7 @@ client.on('message-new', async (m) => {
                .then(data => {
                    const { judul, size, hasil: link } = data
                    let hasil = `✅ Video Berhasil Di Download, silahkan klik link dan download hasilnya\nKlik link dibawah🗡️\n\nJudul: ${judul}\n\nUkuran audio: ${size}\n\nLink: ${link}`
-                   client.sendMessage(id, '[❗] WAIT BOSQ🖤',MessageType.text)
+                   client.sendMessage(id, '[❗] WAIT BOS',MessageType.text)
                    client.sendMessage(id, hasil,MessageType.text)
                })
                .catch(err => {
@@ -232,7 +231,7 @@ client.on('message-new', async (m) => {
                .then(data => {
                     const { size, hasil: link } = data
                     let hasil = `✅ Berhasil! silahkan klik link di bawah untuk mendownload hasilnya!\nKlik link dibawah🗡️\n\nSize: ${size}\n\nLink: ${link}`
-                    client.sendMessage(id, '[❗] WAIT BOSQ🖤',MessageType.text)
+                    client.sendMessage(id, '[❗] WAIT BOS',MessageType.text)
                     client.sendMessage(id, hasil ,MessageType.text)
                })
                .catch(err => {
@@ -360,7 +359,7 @@ client.on('message-new', async (m) => {
                case 'cewek':
                    cewePict(value)
                        .then(buffer => {
-                           client.sendMessage(id, '[❗] WAIT BOSQ🖤',MessageType.text)
+                           client.sendMessage(id, '[❗] WAIT BOS',MessageType.text)
                            client.sendMessage(id, buffer ,MessageType.image)
                        })
                        .catch(err => {
@@ -370,7 +369,7 @@ client.on('message-new', async (m) => {
                case 'cowok':
                    cowoPict(value)
                        .then(buffer => {
-                           client.sendMessage(id, '[❗] WAIT BOSQ🖤',MessageType.text)
+                           client.sendMessage(id, '[❗] WAIT BOS',MessageType.text)
                            client.sendMessage(id, buffer ,MessageType.image)
                        })
                        .catch(err => {
@@ -385,7 +384,7 @@ client.on('message-new', async (m) => {
        case 'animepict':
            animPict(value)
                .then(buffer => {
-                   client.sendMessage(id, '[❗] WAIT BOSQ🖤',MessageType.text)
+                   client.sendMessage(id, '[❗] WAIT BOS',MessageType.text)
                    client.sendMessage(id, buffer,MessageType.image)
                })
                .catch(err => {
@@ -748,7 +747,7 @@ case 'filmanime':
            case 'map':
            map(value)
                .then(buffer => {
-                   client.sendMessage(id, '[❗] WAIT BOSQ🖤',MessageType.text)
+                   client.sendMessage(id, '[❗] WAIT BOS',MessageType.text)
                    client.sendMessage(id, buffer,MessageType.image)
                })
                .catch(err => {
@@ -758,7 +757,7 @@ case 'filmanime':
            case 'waifu':
            waifu(value)
                .then(buffer => {
-                   client.sendMessage(id, '[❗] WAIT BOSQ🖤',MessageType.text)
+                   client.sendMessage(id, '[❗] WAIT BOS',MessageType.text)
                    client.sendMessage(id, buffer ,MessageType.image)
                })
                .catch(err => {
@@ -768,7 +767,7 @@ case 'filmanime':
         case 'waifu2':
            waifu2(value)
                .then(buffer => {
-                   client.sendMessage(id, '[❗] WAIT BOSQ🖤',MessageType.text)
+                   client.sendMessage(id, '[❗] WAIT BOS',MessageType.text)
                    client.sendMessage(id, buffer ,MessageType.image)
                })
                .catch(err => {
@@ -778,7 +777,7 @@ case 'filmanime':
        case 'randomcry':
            randomcry(value)
                .then(buffer => {
-                   client.sendMessage(id, '[❗] WAIT BOSQ🖤',MessageType.text)
+                   client.sendMessage(id, '[❗] WAIT BOS',MessageType.text)
                    client.sendMessage(id, buffer,MessageType.image)
                })
                .catch(err => {
@@ -787,7 +786,7 @@ case 'filmanime':
               case 'randomkis':
            randomkis(value)
                .then(buffer => {
-                   client.sendMessage(id, '[❗] WAIT BOSQ🖤',MessageType.text)
+                   client.sendMessage(id, '[❗] WAIT BOS',MessageType.text)
                    client.sendMessage(id, buffer,MessageType.imagegif,)
                })
                .catch(err => {
@@ -797,7 +796,7 @@ case 'filmanime':
           case 'texthunder':
            texthunder(value)
                .then(buffer => {
-                   client.sendMessage(id, '[❗] WAIT BOSQ🖤',MessageType.text)
+                   client.sendMessage(id, '[❗] WAIT BOS',MessageType.text)
                    client.sendMessage(id, buffer,MessageType.image)
                })
                .catch(err => {
@@ -807,7 +806,7 @@ case 'filmanime':
       case 'loli':
            loli(value)
                .then(buffer => {
-                   client.sendMessage(id, '[❗] WAIT BOSQ🖤',MessageType.text)
+                   client.sendMessage(id, '[❗] WAIT BOS',MessageType.text)
                    client.sendMessage(id, buffer,MessageType.image)
                })
                .catch(err => {
@@ -817,7 +816,7 @@ case 'filmanime':
         case 'logogaming':
            logogaming(value)
                .then(buffer => {
-                   client.sendMessage(id, '[❗] WAIT BOSQ🖤',MessageType.text)
+                   client.sendMessage(id, '[❗] WAIT BOS',MessageType.text)
                    client.sendMessage(id, buffer,MessageType.image)
                })
                .catch(err => {
@@ -827,7 +826,7 @@ case 'filmanime':
            case 'ssweb':
            ssweb(value)
                .then(buffer => {
-                   client.sendMessage(id, '[❗] WAIT BOSQ🖤',MessageType.text)
+                   client.sendMessage(id, '[❗] WAIT BOS',MessageType.text)
                    client.sendMessage(id, buffer,MessageType.image)
                })
                .catch(err => {
@@ -837,7 +836,7 @@ case 'filmanime':
          case 'memecreate':
            memecreate(value)
                .then(buffer => {
-                   client.sendMessage(id, '[❗] WAIT BOSQ🖤',MessageType.text)
+                   client.sendMessage(id, '[❗] WAIT BOS',MessageType.text)
                    client.sendMessage(id, buffer,MessageType.image)
                })
                .catch(err => {
@@ -847,7 +846,7 @@ case 'filmanime':
    case 'gltext':
            gltext(value)
                .then(buffer => {
-                   client.sendMessage(id, '[❗] WAIT BOSQ🖤',MessageType.text)
+                   client.sendMessage(id, '[❗] WAIT BOS',MessageType.text)
                    client.sendMessage(id, buffer,MessageType.image)
                })
                .catch(err => {
@@ -856,7 +855,7 @@ case 'filmanime':
           case 'blackpink':
            blackpink(value)
                .then(buffer => {
-                   client.sendMessage(id, '[❗] WAIT BOSQ🖤',MessageType.text)
+                   client.sendMessage(id, '[❗] WAIT BOS',MessageType.text)
                    client.sendMessage(id, buffer,MessageType.image)
                })
                .catch(err => {
@@ -866,7 +865,7 @@ case 'filmanime':
      case 'cooltext':
            cooltext(value)
                .then(buffer => {
-                   client.sendMessage(id, '[❗] WAIT BOSQ🖤',MessageType.text)
+                   client.sendMessage(id, '[❗] WAIT BOS',MessageType.text)
                    client.sendMessage(id, buffer,MessageType.image)
                })
                .catch(err => {
@@ -876,7 +875,7 @@ case 'filmanime':
            case 'ttp':
            ttp(value)
                .then(buffer => {
-                   client.sendMessage(id, '[❗] WAIT BOSQ🖤',MessageType.text)
+                   client.sendMessage(id, '[❗] WAIT BOS',MessageType.text)
                    client.sendMessage(id, buffer,MessageType.image)
                })
                .catch(err => {
@@ -885,7 +884,7 @@ case 'filmanime':
            case 'pokemon':
            pokemon(value)
                .then(buffer => {
-                   client.sendMessage(id, '[❗] WAIT BOSQ🖤',MessageType.text)
+                   client.sendMessage(id, '[❗] WAIT BOS',MessageType.text)
                    client.sendMessage(id, buffer,MessageType.image)
                })
                .catch(err => {
@@ -895,7 +894,7 @@ case 'filmanime':
            case 'nekonime':
            nekonime(value)
                .then(buffer => {
-                   client.sendMessage(id, '[❗] WAIT BOSQ🖤',MessageType.text)
+                   client.sendMessage(id, '[❗] WAIT BOS',MessageType.text)
                    client.sendMessage(id, buffer ,MessageType.image)
                })
                .catch(err => {
@@ -904,7 +903,7 @@ case 'filmanime':
        case 'randomkis':
            randomkis(value)
                .then(buffer => {
-                   client.sendMessage(id, '[❗] WAIT BOSQ🖤',MessageType.text)
+                   client.sendMessage(id, '[❗] WAIT BOS',MessageType.text)
                    client.sendMessage(id, buffer,MessageType.image)
                })
                .catch(err => {
@@ -914,7 +913,7 @@ case 'filmanime':
            case 'ytmp3':
            mp3(value)
                .then(buffer => {
-                   client.sendMessage(id, '[❗] WAIT BOSQ🖤',MessageType.text)
+                   client.sendMessage(id, '[❗] WAIT BOS',MessageType.text)
                    client.sendMessage(id, buffer ,MessageType.image)
                })
                .catch(err => {
