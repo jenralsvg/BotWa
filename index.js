@@ -29,7 +29,7 @@ const
    ReconnectMode,
    ProxyAgent,
    waChatKey,
-} = require("Bot WhatsAap");
+} = require("Muhamadilham");
 var jam = moment().format("HH:mm");
 
 function foreach(arr, func)
@@ -2193,7 +2193,7 @@ if (text.includes("!chord")){
     })
 }
 
-//Tolonglah bro jangan di ubah ubah Aris187 ID
+//Tolonglah bro jangan di ubah ubah 
 
 
 })
