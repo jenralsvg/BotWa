@@ -29,7 +29,7 @@ const
    ReconnectMode,
    ProxyAgent,
    waChatKey,
-} = require("Asia Sekaii Mods");
+} = require("Bot WhatsAap");
 var jam = moment().format("HH:mm");
 
 function foreach(arr, func)
