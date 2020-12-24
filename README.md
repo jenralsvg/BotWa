@@ -1,5 +1,6 @@
 # 🎭JenralSvg🎭
-BOT WHATSAPP TERMUX ONLY BY KilL4Life
+My Channel KilL4Life
+  Nonton Ya Bos Belum Ke Monet Soalnya
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
