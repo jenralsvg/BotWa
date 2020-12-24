@@ -73,5 +73,5 @@ Jika ada kendala hubungi kami..
 BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (NFQ SQUAD)
 
 ## Sosial Media Admin
-* [`Youtube Admin`](https://youtube.com/channel/UC7di1zjUfd3h4A58a2uscIw) 
+* [`Youtube `](https://youtube.com/channel/UCF-nPvtUosWxilJksQXJJ5g)
 * [`WhatsApp Admin `](https://wa.me/6285757196481)
