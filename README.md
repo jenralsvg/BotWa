@@ -5,7 +5,7 @@ My Channel KilL4Life
 ### Alat dan Bahan
 Siapin alat dan bahannya.
 ```bash
-> 2 handphone (1 buat jalanin sc, 1 buat scan kode qr kak) ✔︎
+> 2 handphone (1 buat jalanin sc, 1 buat scan kode qr Bos) ✔︎
 > jaringan internet kenceng,kuota+ ✔︎
 > penyimpanan yang memadai
 > aplikasi whatsapp ✔︎
