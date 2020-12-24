@@ -100,8 +100,8 @@ conn.sendMessage(group.gid, "hello everyone", MessageType.extendedText) // say h
 }
 
 // FF A187 ID
-if(text.includes("!help")){
-var num = text.replace(/!help/ , "")
+if(text.includes("#help")){
+var num = text.replace(/#help/ , "")
 var idn = num.replace("0","+62");
 
 console.log(id);
@@ -326,7 +326,7 @@ conn.sendMessage(id ,`â•” â•ã€˜ *â™¥ ï¸REIN-BOTâ™¥ ï�
 ${gg} ${exists ? " exists " : "*[ REIN-BOT ]* ðŸ’•"}`, MessageType.text)
 }
 if(text.includes("!kick")){
-var num = text.replace(/!help/ , "")
+var num = text.replace(/#help/ , "")
 var idn = num.replace("0","+62");
 
 console.log(id);
