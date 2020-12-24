@@ -4,12 +4,9 @@
 * (Jangan Lupa Subrek,Like,Shere KilL4Life).^M
 */
 const A187 = 'Muhamadilham'; // Nama Bot Whatsapp
-const instagramlu = 'https://instagram.com/arpunchs'; // Nama Instagramlu cok
-const whatsapplu = 'Wa.me/6288235435804'; // Nomor whatsapplu cok
-const kapanbotaktif = 'Tergantung jaringan'; // Kapan bot lu aktif
+const whatsapplu = 'Wa.me/6285757196481'; // Nomor whatsapplu cok
+const kapanbotaktif = 'Jika DiAktifkan'; // Kapan bot lu aktif
 const grupch1 = 'https://chat.whatsapp.com/LjkVmhsgOfiK0DMn1JiIdc'; // OFFICIAL GRUP LU 1
-const grupch2 = 'https://youtube.com/channel/UC0KCrPNyL-E7NZIp2l3mZLQ'; // OFFICIAL YT LU
-const grupch3 = 'https://chat.whatsapp.com/Jb93uvhAbbGKkUXMos0Ej3'; // OFFICIAL GRUP LU 3
 //
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
@@ -21,7 +18,7 @@ const fetch = require('node-fetch');
 const urlencode = require("urlencode");
 const axios = require("axios");
 const imageToBase64 = require('image-to-base64');
-const menu = require("./lib/menu.js");
+const menu = require("./lib/help.js");
 const donate = require("./lib/donate.js");
 const info = require("./lib/info.js");
 //
