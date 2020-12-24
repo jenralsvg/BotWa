@@ -3,7 +3,7 @@
 * "Jangan modal nama doang bro!!!"^M
 * (Jangan Lupa Subrek,Like,Shere KilL4Life).^M
 */
-const BotName = 'Muhamadilham'; // Nama Bot Whatsapp
+const A187 = 'Muhamadilham'; // Nama Bot Whatsapp
 const instagramlu = 'https://instagram.com/arpunchs'; // Nama Instagramlu cok
 const whatsapplu = 'Wa.me/6288235435804'; // Nomor whatsapplu cok
 const kapanbotaktif = 'Tergantung jaringan'; // Kapan bot lu aktif
