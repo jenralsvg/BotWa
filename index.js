@@ -6,7 +6,7 @@
 const A187 = 'Muhamadilham'; // Nama Bot Whatsapp
 const whatsapplu = 'Wa.me/6285757196481'; // Nomor whatsapplu cok
 const kapanbotaktif = 'Jika DiAktifkan'; // Kapan bot lu aktif
-const grupch1 = 'https://chat.whatsapp.com/LjkVmhsgOfiK0DMn1JiIdc'; // OFFICIAL GRUP LU 1
+const grupch1 = 'https://chat.whatsapp.com/JttY5Uu6WcaGh8ntMtqhqP'; // OFFICIAL GRUP LU 1
 //
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
