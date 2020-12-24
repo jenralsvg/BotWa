@@ -37,7 +37,7 @@ const
    ReconnectMode,
    ProxyAgent,
    waChatKey,
-} = require("🎭Muhamadilham🎭");
+} = require("@adiwajshing/baileys");
 var jam = moment().format("HH:mm");
 
 function foreach(arr, func)
@@ -906,16 +906,16 @@ conn.sendMessage(id ,`â•­â”€â”€â”€ã€Œ *ZODIAK LIST* ã€
 
 
 //Chat A187 ID
-else if (text == 'assalam84$(7_;7&+6ualaikum'){
-conn.sendMessage(id, '3aalaikumsalam, Ketik #help/#info/#donasi Contoh #help' ,MessageType.text);
-}
-else if (text == 'sa55_&55-&lam'){
+else if (text == 'assalamualaikum'){
 conn.sendMessage(id, 'Waalaikumsalam, Ketik #help/#info/#donasi Contoh #help' ,MessageType.text);
 }
-else if (text == 'asalamualai5-+&&kum'){
+else if (text == 'salam'){
 conn.sendMessage(id, 'Waalaikumsalam, Ketik #help/#info/#donasi Contoh #help' ,MessageType.text);
 }
-else if (text == 'Assalamual656&aikum'){
+else if (text == 'asalamualaikum'){
+conn.sendMessage(id, 'Waalaikumsalam, Ketik #help/#info/#donasi Contoh #help' ,MessageType.text);
+}
+else if (text == 'Assalamualaikum'){
 conn.sendMessage(id, 'Waalaikumsalam, Ketik !help/#info/#donasi Contoh !help' ,MessageType.text);
 }
 else if (text == 'p'){
@@ -928,30 +928,30 @@ else if (text == 'Halo'){
 conn.sendMessage(id, 'Ya?, Ketik #help/#info/#donasi Contoh #help' ,MessageType.text);
 }
 else if (text == 'Asu'){
-conn.sendMessage(id, 'Lu Asw' ,MessageType.text);
+conn.sendMessage(id, 'Berkatalah Dengan Sopan' ,MessageType.text);
 }
 else if (text == '$ydwtf'){
-conn.sendMessage(id, 'Owner AR15BOT wa.me/+6285712632324' ,MessageType.text);
+conn.sendMessage(id, 'Owner Muhamadilham wa.me/+6285757196481' ,MessageType.text);
 }
-else if (text == 'Aris'){
-conn.sendMessage(id, 'Aku BOT nya Aris' ,MessageType.text);
+else if (text == 'ilham'){
+conn.sendMessage(id, 'Bot Telah Aktif Ketik #help/#info/#donasi Contoh #help' ,MessageType.text);
 }
 else if (text == 'Ngentod'){
-conn.sendMessage(id, 'Pengin ngentod?' ,MessageType.text);
+conn.sendMessage(id, 'Taubat Bos' ,MessageType.text);
 }
 else if (text == 'anjing'){
-conn.sendMessage(id, 'Jangan toxic anjing' ,MessageType.text);
+conn.sendMessage(id, 'Berkatalah Dengan Sopan' ,MessageType.text);
 }
 else if (text == 'Bacot'){
-conn.sendMessage(id, 'lu bacot_-' ,MessageType.text);
+conn.sendMessage(id, 'Hehehe' ,MessageType.text);
 }
 else if (text == 'Test'){
-conn.sendMessage(id, 'Test 1,2,3 ketik !help' ,MessageType.text);
+conn.sendMessage(id, 'Test 1,2,3 ketik #help' ,MessageType.text);
 }
-else if (text == 'H&6&ai'){
+else if (text == 'Hai'){
 conn.sendMessage(id, 'Ya?, Ketik #help/#info/#donasi Contoh #help' ,MessageType.text);
 }
-else if (text == 'Woi6-----'){
+else if (text == 'Woi-----'){
 conn.sendMessage(id, 'Ya?, Ketik #help/#info/#donasi Contoh #help' ,MessageType.text);
 }
 else if (text == 'E6&76_^âˆšÂ®âˆšÃ—âˆšÂ¶oy'){
@@ -1018,28 +1018,28 @@ else if (text == 'Thanks'){
 conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)' ,MessageType.text);
 }
 else if (text == '!menu'){
-conn.sendMessage(id, '*BAKAA!!* Ulangi dengan perrintah *!help* ' ,MessageType.text)
+conn.sendMessage(id, '*BAKAA!!* Ulangi dengan perrintah *#help* ' ,MessageType.text)
 }
 else if (text == '!'){
-conn.sendMessage(id, '*BAKAA!!* Masukan perintah *!help* ' ,MessageType.text)
+conn.sendMessage(id, '*BAKAA!!* Masukan perintah *#help* ' ,MessageType.text)
 }                                    
 else if (text == '!artinama'){
-conn.sendMessage(id, '*BAKAA!!* contoh: !nama Rendy' ,MessageType.text)
+conn.sendMessage(id, '*BAKAA!!* contoh: #nama Rendy' ,MessageType.text)
 }
 else if (text == '!pasangan'){
-conn.sendMessage(id, '*BAKAA!!* contoh: !pasangan Rendy & Reina' ,MessageType.text)
+conn.sendMessage(id, '*BAKAA!!* contoh: #pasangan Fan & Ham' ,MessageType.text)
 }
 else if (text == '#menu'){                                                                                                                 
-  conn.sendMessage(id, '*BAKAA!!* Ulangi dengan perintah *!help* ' ,MessageType.text)
+  conn.sendMessage(id, '*BAKAA!!* Ulangi dengan perintah *#help* ' ,MessageType.text)
 }
 else if (text == '!zodiak2'){
-conn.sendMessage(id, '*BAKAA!!* Masukan perintah !zodiak contoh : !zodiak 16-03-2006' ,MessageType.text)
+conn.sendMessage(id, '*BAKAA!!* Masukan perintah !zodiak contoh : #zodiak 16-03-2006' ,MessageType.text)
 }
 else if (text == '!zodiak'){
-conn.sendMessage(id, '*BAKAA!!* Masukan perintah !zodiak contoh : !zodiak Scorpio' ,MessageType.text)
+conn.sendMessage(id, '*BAKAA!!* Masukan perintah !zodiak contoh : #zodiak Scorpio' ,MessageType.text)
 }
 else if (text == '!stiker'){
-conn.sendMessage(id, '*BAKAA!!* masukan gambar dengan caption !sticker' ,MessageType.text)
+conn.sendMessage(id, '*BAKAA!!* masukan gambar dengan caption #sticker' ,MessageType.text)
 }
 
 // Fitur
