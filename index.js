@@ -95,8 +95,8 @@ conn.sendMessage(group.gid, "hello everyone", MessageType.extendedText) // say h
 }
 
 // FF A187 ID
-if(text.includes("!help")){
-var num = text.replace(/!help/ , "")
+if(text.includes("#menu")){
+var num = text.replace("#menu"))
 var idn = num.replace("0","+62");
 
 console.log(id);
@@ -104,89 +104,89 @@ const gg = idn+''
 
 const exists = await conn.isOnWhatsApp (gg)
 console.log(exists);
-conn.sendMessage(id ,`Haii, kak ðŸ‘‹
+conn.sendMessage(id ,`Haii, Bos ðŸ‘‹
 
-*command perintah : !*
+*command perintah : #*
 
 â•”â• ã€˜ â™¥REIN-BOTâ™¥ ã€™â•â•â•—
 â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• 
 â•” â•ã€˜ êœ°Éªá´›á´œÊ€á´‡ á´€ÊŸÊŸ á´œêœ±á´‡Ê€ ã€™â•â•—
-ðŸŒ¹ *!nulis* [ masukan teks ]
-ðŸŒ¹ *!sticker*
-ðŸŒ¹ *!bhsjepang*
-ðŸŒ¹ *!katabijak*
-ðŸŒ¹ *!fakta*
-ðŸŒ¹ *!pantun*
-ðŸŒ¹ *!pantuncinta*
+ðŸŒ¹ *#nulis* [ masukan teks ]
+ðŸŒ¹ *#sticker*
+ðŸŒ¹ *#bhsjepang*
+ðŸŒ¹ *#katabijak*
+ðŸŒ¹ *#fakta*
+ðŸŒ¹ *#pantun*
+ðŸŒ¹ *#pantuncinta*
 â•š â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 â•” â•ã€˜ Ê€á´‡ÊŸÉªÉ¢Éªá´á´œêœ± á´„á´á´á´á´€É´á´… ã€™â•—
-ðŸŒ¹ *!quran* 
-ðŸŒ¹ *!sholat* [ nama daerah ]
+ðŸŒ¹ *#quran* 
+ðŸŒ¹ *#sholat* [ nama daerah ]
 â•š â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 â•” â•ã€˜ á´„á´á´á´á´€É´á´… ÉªÉ´êœ°á´Ê€á´á´€á´›Éªá´É´ ã€™â•—
-ðŸŒ¹ *!ss*
-ðŸŒ¹ *!wiki* 
-ðŸŒ¹ *!brainly*
-ðŸŒ¹ *!svc* [ tag orng ny ]
-ðŸŒ¹ *!chord* [ nama music ]
-ðŸŒ¹ *!zodiak* 
-ðŸŒ¹ *!listzodiak*
+ðŸŒ¹ *#ss*
+ðŸŒ¹ *#wiki* 
+ðŸŒ¹ *#brainly*
+ðŸŒ¹ *#svc* [ tag orng ny ]
+ðŸŒ¹ *#chord* [ nama music ]
+ðŸŒ¹ *#zodiak* 
+ðŸŒ¹ *#listzodiak*
 â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•
 â•”ã€˜ á´‡É´á´›á´‡Ê€á´›á´€ÉªÉ´á´á´‡É´á´› Ò“á´‡á´€á´›á´œÊ€á´‡á´¤ ã€™â•—
-ðŸŒ¹ *!quotes*
-ðŸŒ¹ *!quotesnime*
-ðŸŒ¹ *!nama*
-ðŸŒ¹ *!pasangan* [ nama pasangan l]
-ðŸŒ¹ *!lirik* [ nama lagu ]
-ðŸŒ¹ *!infoig* [ nama ig ]
-ðŸŒ¹ *!gay* [ tag orng ny ]
-ðŸŒ¹ *!buaya* [ tag orng ny ] 
-ðŸŒ¹ *!bmkg*
+ðŸŒ¹ *#quotes*
+ðŸŒ¹ *#quotesnime*
+ðŸŒ¹ *#nama*
+ðŸŒ¹ *#pasangan* [ nama pasangan l]
+ðŸŒ¹ *#lirik* [ nama lagu ]
+ðŸŒ¹ *#infoig* [ nama ig ]
+ðŸŒ¹ *#gay* [ tag orng ny ]
+ðŸŒ¹ *#buaya* [ tag orng ny ] 
+ðŸŒ¹ *#bmkg*
 â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•
 â•”â•ã€˜ á´…á´á´¡É´ÊŸá´á´€á´…á´‡Ê€ á´„á´á´á´á´€É´á´…êœ± ã€™â•—
-ðŸŒ¹ *!ytmp3* [ link ]
-ðŸŒ¹ *!ytmp4* [ link ]
-ðŸŒ¹ *!instagram* [ link ]
-ðŸŒ¹ *!twt* [ link ]
-ðŸŒ¹ *!facebook* [ link ]
+ðŸŒ¹ *#ytmp3* [ link ]
+ðŸŒ¹ *#ytmp4* [ link ]
+ðŸŒ¹ *#instagram* [ link ]
+ðŸŒ¹ *#twt* [ link ]
+ðŸŒ¹ *#facebook* [ link ]
 â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•
 â•”â•ã€˜ Ê€á´€É´á´…á´á´ Éªá´á´€É¢á´‡á´¤ ã€™â•â•—
-ðŸŒ¹ *!kpop*
-ðŸŒ¹ *!loli*
-ðŸŒ¹ *!hentai enable*
-ðŸŒ¹ *!hentai*
-ðŸŒ¹ *!hentai disable*
-ðŸŒ¹ *!foto cewek/cowok*
-ðŸŒ¹ *!pokemon*
-ðŸŒ¹ *!animeimg*
+ðŸŒ¹ *#kpop*
+ðŸŒ¹ *#loli*
+ðŸŒ¹ *#hentai enable*
+ðŸŒ¹ *#hentai*
+ðŸŒ¹ *#hentai disable*
+ðŸŒ¹ *#foto cewek/cowok*
+ðŸŒ¹ *#pokemon*
+ðŸŒ¹ *#animeimg*
 â•š â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 â•”â•ã€˜ á´á´›Êœá´‡Ê€á´¤ á´„á´á´á´á´€É´á´…á´¤ ã€™â•â•—
-ðŸŒ¹ *!say*
-ðŸŒ¹ *!tts*
-ðŸŒ¹ *!covidindo*
+ðŸŒ¹ *#say*
+ðŸŒ¹ *#tts*
+ðŸŒ¹ *#covidindo*
 â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•
 â•”â•ã€˜ á´€Ê™á´á´œá´› Ê™á´á´› ã€™â•—
-ðŸŒ¹ *!join*
-ðŸŒ¹ *!donasi*
-ðŸŒ¹ *!ownerbot*
-ðŸŒ¹ *!linkgroup*
+ðŸŒ¹ *#join*
+ðŸŒ¹ *#donasi*
+ðŸŒ¹ *#ownerbot*
+ðŸŒ¹ *#linkgroup*
 â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•
 â•”â•ã€˜ á´á´¡É´á´‡Ê€ Ê™á´á´› ã€™â•â•—
-ðŸŒ¹ *!ban* - banned
-ðŸŒ¹ *!bc* - promosi
-ðŸŒ¹ *!leaveall* - keluar semua grup
-ðŸŒ¹ *!clearall* - hapus semua chat
-ðŸŒ¹ *!offbot* - mematikan bot
-ðŸŒ¹ *!onbot* - menyalahkan bot
-ðŸŒ¹ *!ressetbot* - resset system bot
+ðŸŒ¹ *#ban* - banned
+ðŸŒ¹ *#bc* - promosi
+ðŸŒ¹ *#leaveall* - keluar semua grup
+ðŸŒ¹ *#clearall* - hapus semua chat
+ðŸŒ¹ *#offbot* - mematikan bot
+ðŸŒ¹ *#onbot* - menyalahkan bot
+ðŸŒ¹ *ressetbot* - resset system bot
 â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•
 
-${gg} ${exists ? " exists " : "*Thank for Using REIN-BOT* ðŸ’•"}
+${gg} ${exists ? " exists " : "*Thank for Using KilL4Life* ðŸ’•"}
 _#tetap jaga kesehatan_ ^_^`, MessageType.text)
 conn.sendMessage(id, 'Menu VIP Free: *!prouser*', MessageType.text)
 }
-if(text.includes("!prouser")){
-var num = text.replace(/!help/ , "")
+if(text.includes("#prouser")){
+var num = text.replace("#menu"))
 var idn = num.replace("0","+62");
 
 console.log(id);
@@ -194,9 +194,9 @@ const gg = idn+''
 
 const exists = await conn.isOnWhatsApp (gg)
 console.log(exists);
-conn.sendMessage(id ,`Haii, kak ðŸ‘‹
+conn.sendMessage(id ,`Haii, Bos ðŸ‘‹
 
-*command perintah : !prouser*
+*command perintah : *#prouser*
 
 â•”â• ã€˜ â™¥REIN-BOTâ™¥ ã€™â•â•â•—
 â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•.
@@ -314,14 +314,14 @@ const gg = idn+''
 
 const exists = await conn.isOnWhatsApp (gg)
 console.log(exists);
-conn.sendMessage(id ,`â•” â•ã€˜ *â™¥ ï¸REIN-BOTâ™¥ ï¸* ã€™â•—
+conn.sendMessage(id ,`â•” â•ã€˜ *â™¥ ï¸â™¥ ï¸* ã€™â•—
 
 *BAKAA!!* Bot tidak dapat join harus di lakukan secara manual/meminta kepada owner bot
 
-${gg} ${exists ? " exists " : "*[ REIN-BOT ]* ðŸ’•"}`, MessageType.text)
+${gg} ${exists ? " exists " : "*[ KilL4Life ]* ðŸ’•"}`, MessageType.text)
 }
 if(text.includes("!kick")){
-var num = text.replace(/!help/ , "")
+var num = text.replace(/#menu/ , "")
 var idn = num.replace("0","+62");
 
 console.log(id);
@@ -333,10 +333,10 @@ conn.sendMessage(id ,`â•” â•ã€˜ *â™¥  ï¸REIN-BOTâ™¥  �
 
 *BAKAA!!* Bot tidak dapat mengeluarkan karena bot bkn Admin grup
 
-${gg} ${exists ? " exists " : "*[ REIN-BOT ]* ðŸ’•"}`, MessageType.text)
+${gg} ${exists ? " exists " : "*[ KilL4Life ]* ðŸ’•"}`, MessageType.text)
 }
 if(text.includes("!nhentai")){
-var num = text.replace(/!help/ , "")
+var num = text.replace(/#menu/ , "")
 var idn = num.replace("0","+62");
 
 console.log(id);
