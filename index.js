@@ -3,6 +3,14 @@
 * "Jangan modal nama doang bro!!!"^M
 * (Jangan Lupa Subrek,Like,Shere KilL4Life).^M
 */
+const BotName = 'Muhamadilham'; // Nama Bot Whatsapp
+const instagramlu = 'https://instagram.com/arpunchs'; // Nama Instagramlu cok
+const whatsapplu = 'Wa.me/6288235435804'; // Nomor whatsapplu cok
+const kapanbotaktif = 'Tergantung jaringan'; // Kapan bot lu aktif
+const grupch1 = 'https://chat.whatsapp.com/LjkVmhsgOfiK0DMn1JiIdc'; // OFFICIAL GRUP LU 1
+const grupch2 = 'https://youtube.com/channel/UC0KCrPNyL-E7NZIp2l3mZLQ'; // OFFICIAL YT LU
+const grupch3 = 'https://chat.whatsapp.com/Jb93uvhAbbGKkUXMos0Ej3'; // OFFICIAL GRUP LU 3
+//
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
 const cheerio = require("cheerio");
