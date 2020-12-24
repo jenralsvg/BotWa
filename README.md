@@ -1,40 +1,7 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> KilL4Life
-<p align="center">
+# 🤖Naga-Bot🤖
+BOT WHATSAPP TERMUX ONLY BY Sekaii Mod
 
-
-
-<p align="center">
-<a href="#"><img title="👾AR15BOT👾" src="https://img.shields.io/badge/KilL4Life-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://github.com/A187ID"><img title="Author" src="https://img.shields.io/badge/AUTHOR-KilL4Life-orange.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://www.codefactor.io/repository/github/A187ID/AR15BOT"><img title="Rating" src="https://www.codefactor.io/repository/github/A187ID/AR15BOT/badge/main"></a>
-</p>
-<p align="center">
-<a href="https://github.com/A187ID/AR15BOT/followers"><img title="Followers" src="https://img.shields.io/github/followers/A187ID?color=blue&style=flat-square"></a>
-<a href="https://github.com/A187ID/AR15BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/A187ID/AR15BOT?color=red&style=flat-square"></a>
-<a href="https://github.com/A187ID/AR15BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/A187ID/AR15BOT?color=red&style=flat-square"></a>
-<a href="https://github.com/A187ID/AR15BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/A187ID/AR15BOT?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FA187ID%2FAR15BOT&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-</p>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="600" />
-<div align="center">
-<details>
- 
-</details>
-
-### WARNING
-SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA TERMUX
-</div>
-
-
-## NOTE:> 
-JANGAN LUPA SHOLAT
-</div>
-
-### ALAT DAN BAHAN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
+### Alat dan Bahan
 Siapin alat dan bahannya.
 ```bash
 > niat
@@ -42,30 +9,30 @@ Siapin alat dan bahannya.
 > jaringan internet kenceng,kuota+
 > penyimpanan yang memadai
 > aplikasi whatsapp
+> jika error hubungi 088235435804
 > aplikasi termux
-> kopi+rokok ;v
+> kopi nya diminum..
 ```
 
-### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
-Script ini di modifikasi sama saya sendiri KilL4Life.
+### Cara Installnya
+
 ```bash
-> kalo lu belum punya apk termux, download di playstore
+> kalo lu belum punya apk termux, download di playstore !
 > masuk ke apk termux lalu ketik dibawah ini!
 > termux-setup-storage
-> pkg install git && pkg install tesseract && pkg install wget && pkg install ffmpeg && pkg install nodejs
+> pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/jenralsvg/BotWa
-> cd BotWa
-> npm i -g cwebp && npm i node-tesseract-ocr && npm i -g ytdl && npm i  && npm i got && node index js
-> Tinggal scan kode qr yeee...done
+> cd Arya-Bot
+> npm i -g cwebp && npm i -g ytdl && npm i  && npm i got && node index js
+> Tinggal scan kode qr ya cuy...done cuk
 ```
 
-## FEATURES  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
+## Features
 
-| BotWa        |              Feature             |
+| Nolep Bot     |                   Feature        |
 | :-----------: | :------------------------------: |
 |       ✅       | Sticker Creator                  |
-|       ✅       | Nulis                            |
+|       ✅       | Nulis                           |
 |       ✅       | Covid (new)                      |
 |       ✅       | Alay (new)                       |
 |       ✅       | Lirik (new)                      |
@@ -96,18 +63,14 @@ Script ini di modifikasi sama saya sendiri KilL4Life.
 |       ✅       | Pokemon                          |
 |       ✅       | Info                             |
 |       ✅       | Donate                           |
-|                   MORE  Fitur                     |
+|                   MORE                           |
 
 Ket: Aktiv 24 jam
+Jika ada kendala hubungi kami..
 
+## Note
+BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (NFQ SQUAD)
 
-
-## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
-
-* [`Youtube Admin`](https://youtube.com/channel/UCF-nPvtUosWxilJksQXJJ5g)
-
-* [`WhatsApp Admin `](https://wa.me/+6285757196481)
-## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
-
-
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
+## Sosial Media Admin
+* [`Youtube Admin`](https://youtube.com/channel/UC7di1zjUfd3h4A58a2uscIw) 
+* [`WhatsApp Admin `](https://wa.me/6283807588767)
