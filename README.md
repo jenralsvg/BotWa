@@ -5,28 +5,26 @@ My Channel KilL4Life
 ### Alat dan Bahan
 Siapin alat dan bahannya.
 ```bash
-> niat
-> 2 handphone (1 buat jalanin sc, 1 buat scan kode qr kak)
-> jaringan internet kenceng,kuota+
+> 2 handphone (1 buat jalanin sc, 1 buat scan kode qr kak) ✔︎
+> jaringan internet kenceng,kuota+ ✔︎
 > penyimpanan yang memadai
-> aplikasi whatsapp
-> jika error hubungi 085757196481
-> aplikasi termux
-> kopi nya diminum..
+> aplikasi whatsapp ✔︎
+> jika error hubungi 085757196481 Semoga Tidak Error Ya Bos🙂
+> aplikasi termux ✔︎
 ```
 
 ### Cara Installnya
 
 ```bash
-> kalo lu belum punya apk termux, download di playstore !
-> masuk ke apk termux lalu ketik dibawah ini!
+> kalo lu belum punya apk termux, download di playstore !★
+> masuk ke apk termux lalu ketik dibawah ini!☟︎︎︎
 > termux-setup-storage
 > pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
 > git clone https://github.com/jenralsvg/BotWa
 > cd BotWa
 > npm i -g cwebp && npm i -g ytdl && npm i  && npm i got && node index js
-> Tinggal scan kode qr ya cuy...done cuk
+> Tinggal scan kode qr ya cuy...done Bos
 ```
 
 ## Features
